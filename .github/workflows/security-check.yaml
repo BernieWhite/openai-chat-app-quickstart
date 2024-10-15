@@ -16,4 +16,4 @@ jobs:
         id: run_psrule
         with:
           modules: 'PSRule.Rules.Azure'
-          baseline: 'TemplateValidation.MI_2024_10'
+          baseline: '.\TemplateValidation.MI_2024_10'
